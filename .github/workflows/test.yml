@@ -2,7 +2,7 @@ name: deploy to gh-pages
 on:
   push:
     branches:
-      - h-action
+      - gh-action
 permissions:
   contents: write
 jobs:
